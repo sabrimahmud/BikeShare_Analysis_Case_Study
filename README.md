@@ -1,10 +1,5 @@
 # Cyclistic Bake-Share 
-### Analysis case study
-An R Markdown website template for a lab journal [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
-
-To use this, click the download as .zip button to start from a local computer, or skip down to the github example to fork this and get started that way.
-
-The unzipped folder contains all of the files you need to compile a website in R Markdown. This should all work fine if you have the latest version of R and R-studio installed.
+This is an Analysis case study of a fictional company located in Chicago, IL,  which was completed to earn Google Data Analytics Professional Certificate. [https://sabrimahmud.github.io/BikeShare_Analysis_Case_Study/](https://sabrimahmud.github.io/BikeShare_Analysis_Case_Study/)
 
 ## Steps for compiling on your local computer
 
